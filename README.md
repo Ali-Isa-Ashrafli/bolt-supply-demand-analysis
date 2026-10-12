@@ -8,6 +8,10 @@
 
 </div>
 
+## 📸 Dashboard
+
+<p align="center"><img src="images/dashboard.png" alt="Dashboard preview" width="100%"/></p>
+
 ---
 
 ## ❓ Business questions
@@ -29,6 +33,19 @@ Ride-hailing operational data in three related tables — **Searches** (unique s
 - **Trips: actual vs possible** — completed rides vs estimated trips at maximum coverage
 - **Top 5 utilized hours** — where the fleet is busiest
 - Custom **Deneb (Vega-Lite)** visual, 1280×720, fully cross-filtered, styled in Bolt brand colors
+
+## 🔢 Headline KPIs
+
+| Unique searches | Coverage | Finished rides | Utilization | Potential trips | Incentive budget |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| **7,046** | **73.6%** | **1,925** | **24.0%** | **2,659** | **€290** |
+
+## 💡 Key insights
+
+- Supply covers **73.6%** of demand — roughly **1 in 4 searches** finds no available car.
+- Only **1,925 of 2,659** potential trips were completed: there is a clear gap between actual and possible trips on every weekday, largest on **Friday and Saturday**.
+- Fleet utilization peaks on **Saturday 00:00 (74%)** and **Friday evenings 18:00–20:00 (67–70%)** — the best hours for drivers to go online.
+- Price multipliers stay mostly between **1.0–1.3×**, with spikes up to **1.5×** in the early morning and evening peaks.
 
 ## 🧠 Skills demonstrated
 
