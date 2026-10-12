@@ -10,7 +10,13 @@
 
 ## 📸 Dashboard
 
-<p align="center"><img src="images/dashboard.png" alt="Dashboard preview" width="100%"/></p>
+<p align="center"><img src="images/dashboard-animated.gif" alt="Animated dashboard walkthrough" width="100%"/></p>
+
+<details>
+<summary>🔍 View full-resolution static screenshot</summary>
+<br/>
+<img src="images/dashboard.png" alt="Dashboard screenshot" width="100%"/>
+</details>
 
 ---
 
